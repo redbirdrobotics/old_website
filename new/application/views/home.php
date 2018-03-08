@@ -11,6 +11,7 @@
                 <div class="card-body">
                     <h4 class="card-title">Redbird Spotlight</h4>
                     <h6 class="card-subtitle mb-2 text-muted">In the News</h6>
+                    <img class="card-image" style="max-width:100%;max-height:100%;" src="assets/img/card_pics/article.jpeg" alt="Picture from article about Redbird"/>
                     <p class="card-text">Redbird Robotics team lands second place in the International Aerial Robotics Competition</p>
  
                 </div>
@@ -20,9 +21,9 @@
         <div class="col-md-4">
             <div class="card">
                 <div class="card-body">
-                    <h4 class="card-title">Redbird Expo</h4>
+                    <h4 class="card-title">Engineering Expo</h4>
                     <h6 class="card-subtitle mb-2 text-muted">J.B. Speed Engineering Exposition</h6>
-                    <img src="assets/img/card_pics/expo.jpg" alt="Mountain View"/>
+                    <img class="card-image" style="max-width:100%;max-height:100%;" src="assets/img/card_pics/expo.jpg" alt="Picture of Alex at the Expo"/>
                     <p class="card-text">Redbird Robotics excited the Louisville community by sharing some of the hard work that the organization has carried out.</p>
 
                 </div>
@@ -32,8 +33,8 @@
             <div class="card">
                 <div class="card-body">
                     <h4 class="card-title">Redbird Meetings</h4>
-                    <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6>
-                    
+                    <h6 class="card-subtitle mb-2 text-muted">General Meetings are Fun!</h6>
+                    <img class="card-image" style="max-width:100%;max-height:100%;" src="assets/img/card_pics/meeting.jpg" alt="Picture of Redbird General Meeting"/>
                     <p class="card-text">General team meetings for Redbird Robotics take place biweekly to catch everyone up with each subteam's progress.</p>
 
                 </div>
