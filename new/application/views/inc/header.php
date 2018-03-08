@@ -64,7 +64,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                 <a class="nav-link" href="#">Competition</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">Sponsors</a>
+                                <a class="nav-link" href="#sponsors">Sponsors</a>
                             </li>
                             <!--                             <li class="nav-item dropdown">
                                 <a class="nav-link dropdown-toggle" href="http://example.com" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
