@@ -1,0 +1,204 @@
+html {
+    height: 100%;
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+body {
+    background: #ffffff;
+    position: relative;
+    margin: 0;
+    min-height: 100%;
+    padding-bottom: 50px;
+    color: #333;
+}
+.frontpage-video {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -100;
+    transform: translateX(-50%) translateY(-50%);
+    background-size: cover;
+    transition: 1s opacity;
+}
+.frontpage-video-container {
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+    height: 100vh; 
+    margin-bottom: 0;
+    background: cover;
+}
+.frontpage-video-overlay {
+    background: url('assets/img/backgrounds/bg2.jpg') repeat;
+    opacity: 0.50; 
+    width: 100%; 
+    height: 100vh; 
+    position: absolute; 
+    z-index:-100;
+}
+.frontpage-video-logo-overlay {
+    height: 209px;
+    width: 906px;
+    background: url('../img/brand/rr_logo_alt2-fullcolor-white-sm.png') no-repeat;
+}
+.join-page .row,
+.donate-page .row {
+    margin-bottom: 15px;
+}
+.input-group {
+    display: block;
+}
+.btn {
+    border-radius: 0;
+}
+.btn-lg {
+    border-radius: 0;
+}
+.navbar {
+    border-radius: 0;
+    margin-bottom: 0;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.navbar-fixed-top .navbar-right {
+    margin-right: 0;
+}
+.member-name {
+    margin: 0;
+    padding: 0;
+}
+.white {
+    background-color: #fff;
+    color: #333;
+}
+.off-white {
+    background-color: #f0f0f0;
+    color: #333;
+}
+.white .header,
+.off-white .header {
+    /*padding: 20px 15px;*/
+}
+.circuit1-header {
+    background: url('../img/backgrounds/circuit1.jpg') bottom no-repeat;
+    padding: 10px 0;
+    color: #fff;
+    margin-bottom: 10px;
+}
+.circuit2-header {
+    background: url('../img/backgrounds/circuit2.jpg') bottom no-repeat;
+    padding: 10px 0;
+    color: #fff;
+    margin-bottom: 10px;
+}
+.circuit3-header {
+    background: url('../img/backgrounds/circuit3.jpg') center no-repeat;
+    padding: 10px 0;
+    color: #fff;
+    margin-bottom: 10px;
+}
+.circuit4-header {
+    background: url('../img/backgrounds/circuit4.jpg') center no-repeat;
+    padding: 10px 0;
+    color: #fff;
+    margin-bottom: 10px;
+}
+.code1-header {
+    background: url('../img/backgrounds/code1.jpg') center no-repeat;
+    padding: 10px 0;
+    color: #fff;
+    margin-bottom: 10px;
+}
+.gray {
+    background-color: #252525;
+    color: #fff;
+}
+.footer {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+h1, h2, h3, h4 {
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-top: 10px;
+}
+.gray .header {
+    padding: 20px 15px;
+}
+.donator {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    justify-content: center;
+    /* align horizontal */
+
+    align-items: center;
+    /* align vertical */
+}
+.donator .donator-logo {
+    width: 100%;
+    -webkit-filter: grayscale(100%);
+    /* Safari 6.0 - 9.0 */
+
+    filter: grayscale(100%);
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+}
+.donator .donator-logo:hover {
+    -webkit-filter: grayscale(0%);
+    /* Safari 6.0 - 9.0 */
+
+    filter: grayscale(0%);
+}
+.dummy {
+    padding-top: 75%;
+    /* forces 1:1 aspect ratio */
+}
+.panel-sponsor {
+    border: 0;
+    border-radius: 0;
+    background: #fff;
+    margin-bottom: 0;
+}
+.panel-sponsor h4 {
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-top: 0;
+}
+.panel-sponsor .panel-body {
+    padding: 20px;
+}
+.vert-helper {
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+}
+.dropdown-menu {
+    border: 0;
+    border-radius: 0;
+}
+.alert {
+    border-radius: 0;
+}
+.home-header {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    color: #fff;
+    background-image: url('../img/backgrounds/code1.jpg');
+    background-size: cover;
+    background-position: center center;
+    z-index: 1;
+}

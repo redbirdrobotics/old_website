@@ -1,0 +1,4 @@
+[27-Mar-2017 19:55:30 America/Chicago] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home2/imenigma/public_html/redbirdrobotics.org/dev3/include/header.php on line 1
+[27-Mar-2017 19:55:30 America/Chicago] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home2/imenigma/public_html/redbirdrobotics.org/dev3/include/header.php on line 1
+[27-Mar-2017 19:55:30 America/Chicago] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home2/imenigma/public_html/redbirdrobotics.org/dev3/include/header.php on line 1
+[13-Sep-2017 04:02:40 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0

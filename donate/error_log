@@ -1,0 +1,6 @@
+[29-Mar-2017 18:28:41 America/Chicago] PHP Warning:  include(include/header.php): failed to open stream: No such file or directory in /home2/imenigma/public_html/redbirdrobotics.org/dev3/donate/index.php on line 5
+[29-Mar-2017 18:28:41 America/Chicago] PHP Warning:  include(include/header.php): failed to open stream: No such file or directory in /home2/imenigma/public_html/redbirdrobotics.org/dev3/donate/index.php on line 5
+[29-Mar-2017 18:28:41 America/Chicago] PHP Warning:  include(): Failed opening 'include/header.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home2/imenigma/public_html/redbirdrobotics.org/dev3/donate/index.php on line 5
+[29-Mar-2017 18:28:41 America/Chicago] PHP Warning:  include(include/footer.php): failed to open stream: No such file or directory in /home2/imenigma/public_html/redbirdrobotics.org/dev3/donate/index.php on line 30
+[29-Mar-2017 18:28:41 America/Chicago] PHP Warning:  include(include/footer.php): failed to open stream: No such file or directory in /home2/imenigma/public_html/redbirdrobotics.org/dev3/donate/index.php on line 30
+[29-Mar-2017 18:28:41 America/Chicago] PHP Warning:  include(): Failed opening 'include/footer.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home2/imenigma/public_html/redbirdrobotics.org/dev3/donate/index.php on line 30

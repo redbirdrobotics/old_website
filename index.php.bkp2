@@ -1,0 +1,80 @@
+<?php
+
+$page_title="Home";
+
+include "include/header.php";
+
+?>
+<div id="home-header" class="container-fluid home-header" style="margin-bottom: 0">
+    <canvas id="demo-canvas"></canvas>
+    <div class="logo-white-homepage"></div>
+
+<!--     <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h4>About Us</h4>
+                <p align="justify">Redbird Robotics brings together multiple engineering disciplines to provide practical, real world experience for students through competitive robotic design and creation. Currently, we are working on an entry for the <a href="<?php echo $site_url; ?>/competition">International Aerial Robotics Competition</a>.
+                    <br />
+                    <br /> Team members participate in all aspects of robotic design from concept design to manufacturing to programming. Our team is a diverse collection of electrical, mechanical and copmuter engineering students with experience working for companies such as Metalsa Structural Products, iKeyless, and Luckett & Farley Architectural Firm.</p>
+            </div>
+        </div>
+    </div> -->
+</div>
+
+<div class="container-fluid white" style="padding-top: 10px">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h2>Proud Sponsors</h2>
+                <p>Our sponsors help to promote educational applications for innovative technologies while maintaining a professional relationship with the members of our team. Interested in sponsoring our team? Email <a href="mailto:sponsor@redbirdrobotics.org">sponsor@redbirdrobotics.org</a> or click the Donate button above.</p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-4">
+                <div class="dummy"></div>
+                <div class="donator">
+                    <a href="https://www.mhsinc.net/" target="_blank">
+                        <img src="assets/img/logos/mhs_sm.png" alt="Material Handling Systems" class="donator-logo">
+                    </a>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="dummy"></div>
+                <div class="donator">
+                    <a href="https://www.luckett-farley.com" target="_blank">
+                        <img src="assets/img/logos/luckettfarley_sm.png" alt="Luckett & Farley" class="donator-logo">
+                    </a>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="dummy"></div>
+                <div class="donator">
+                    <a href="http://www.thermaleq.com" target="_blank">
+                        <img src="assets/img/logos/thermalequipmentsales.png" alt="Thermal Equipment Sales" class="donator-logo">
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-4"></div>
+            <div class="col-md-4">
+                <div class="dummy"></div>
+                <div class="donator">
+                    <a href="http://www.genscape.com" target="_blank">
+                        <img src="assets/img/logos/genscape.png" alt="Genscape" class="donator-logo">
+                    </a>
+                </div>
+            </div>
+            <div class="col-md-4"></div>
+        </div>
+    </div>
+</div>
+
+<script src="assets/js/TweenLite.min.js"></script>
+<script src="assets/js/EasePack.min.js"></script>
+<script src="assets/js/rAF.js"></script>
+<script src="assets/js/demo-1.js"></script>
+
+<?php include "include/footer.php"; ?>

@@ -1,0 +1,508 @@
+<?php
+
+$page_title = "Team";
+
+include "../include/header.php";
+
+?>
+
+<div class="container-fluid circuit3-header">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h1>Our Team</h1>
+            </div>
+        </div>
+	</div>
+</div>
+
+<div class="container" style="margin-top: 20px;">
+
+<div class="row">
+
+    <div class="col-md-12">
+
+			<div class="row">
+
+			  <div class="col-sm-6 col-md-4">
+
+			    <div class="thumbnail">
+
+			      <img src="../assets/img/team_photos/alex_b_sm.jpg" alt="Alex Bennett" style="width:100%" class="img-rounded" />
+
+			      <div class="caption">
+
+			        <h3 style="margin-top: 5px;">Alex Bennett (Co-captain)</h3>
+
+			        <p>Alex is a senior Electrical Engineering student at the J.B. Speed School of Engineering. He will be acting as Co-captain this year for the team and hopes to bring his experience in autonomous robotics, computer vision, and embedded system design to the table in an effort to train team members and lead the team to success in this year's competition. Alex has extensive interests in robotic controls and artificial intelligence and upon graduation plans to pursue a career in these combined fields.</p>
+
+					<div><strong>Major:</strong> Electrical Engineering</div>
+
+			        <div><strong>Year:</strong> Senior</div>
+
+			        <div><strong>Sub-teams:</strong> Communications, Flight Control, Localization, Media</div>
+
+			      </div>
+
+			    </div>
+
+			  </div>
+
+			  <div class="col-sm-6 col-md-4">
+
+			    <div class="thumbnail">
+
+			      <img src="../assets/img/team_photos/alex_r_sm.jpg" alt="Alex Rickert" style="width:100%" class="img-rounded" />
+
+			      <div class="caption">
+
+			        <h3 style="margin-top: 5px;">Alex Rickert (Co-captain)</h3>
+
+			        <p>Alex Rickert is a Senior studying electrical engineering at U of L.  He is Co-Captain of Redbird Robotics and Vice-Chairman of the University of Louisville, Student IEEE Branch.  He has completed 2 co-ops at the Architecture/MEP firm, Luckett & Farley and competed in the 2016 IEEE, SoutheastCon,  Hardware Competition.  He enjoys board games, hiking, craft beer and can often be found nursing a mild caffeine addiction at local coffee shops.</p>
+
+					<div><strong>Major:</strong> Electrical Engineering</div>
+
+			        <div><strong>Year:</strong> Junior</div>
+
+			        <div><strong>Sub-teams:</strong> Finance, Localization</div>
+
+		          </div>
+
+			    </div>
+
+			  </div>
+
+			  <div class="col-sm-6 col-md-4">
+
+			    <div class="thumbnail">
+
+			      <img src="../assets/img/team_photos/devon_sm.jpg" alt="Devon Warman" style="width:100%" class="img-rounded" />
+
+			      <div class="caption">
+
+			        <h3 style="margin-top: 5px;">Devon Warman</h3>
+
+			        <p>Devon Warman is a senior Mechanical Engineering student at UofL’s JB Speed School of Engineering. Devon is a member of the Formula SAE team as well as the Robotics Team. He joined the robotics team after discovering an interest in mechatronics. Devon is currently the lead for the simulation team which consists of 3D modeling, assembly, and running dynamic simulations.</p>
+
+					<div><strong>Major:</strong> Mechanical Engineering</div>
+
+			        <div><strong>Year:</strong> Senior</div>
+
+			        <div><strong>Sub-team:</strong> Simulation</div>
+
+		          </div>
+
+			  	</div>
+
+			  </div>
+
+
+
+			</div>
+
+
+
+			<div class="row">
+
+
+
+			  <div class="col-sm-6 col-md-4">
+
+
+
+			    <div class="thumbnail">
+
+
+
+			      <img src="../assets/img/team_photos/sam_sm.jpg" alt="Sam Fox" style="width:100%" class="img-rounded" />
+
+
+
+			      <div class="caption">
+
+
+
+			        <h3 style="margin-top: 5px;">Sam Fox</h3>
+
+			        <p>Sam Fox is a Senior Electrical and Computer Engineering Major. He has been on the University of Louisville robotics team for two years and recently joined the rocket team to aid in the design of an autonomous multirotor recover system. He is also a member of Army ROTC and is scheduled to graduate in December 2017.</p>
+
+					<div><strong>Major:</strong> Electrical Engineering</div>
+
+			        <div><strong>Year:</strong> Senior</div>
+
+			        <div><strong>Sub-team:</strong> Flight Control</div>
+
+
+
+		          </div>
+
+
+
+			  	</div>
+
+
+
+			  </div>
+
+
+
+			  <div class="col-sm-6 col-md-4">
+
+
+
+			    <div class="thumbnail">
+
+
+
+			      <img src="../assets/img/team_photos/hunter_sm.jpg" alt="Hunter Gray" style="width:100%" class="img-rounded" />
+
+
+
+			      <div class="caption">
+
+
+
+			        <h3 style="margin-top: 5px;">Hunter Gray</h3>
+
+			        <p>Hunter Gray is a Junior Computer Engineering and Computer Science major at the University of Louisville Speed School of Engineering. Hunter joined Redbird Robotics because of an interest in Computer Vision and drone flight. He is the team lead of the Localization subteam, which focuses on gathering information from various sensors on the drone and extracting it for proper use.</p>
+
+					<div><strong>Major:</strong> Computer Engineering & Computer Science</div>
+
+			        <div><strong>Year:</strong> Junior</div>
+
+			        <div><strong>Sub-team:</strong> Localization</div>
+
+
+
+		          </div>
+
+
+
+		        </div>
+
+
+
+			  </div>
+
+
+
+			  <div class="col-sm-6 col-md-4">
+
+
+
+			    <div class="thumbnail">
+
+
+
+			      <img src="../assets/img/team_photos/elijah_sm.jpg" alt="Elijah Lamppin" style="width:100%" class="img-rounded" />
+
+
+
+			      <div class="caption">
+
+
+
+			        <h3 style="margin-top: 5px;">Elijah Lamppin</h3>
+
+			        <p>Elijah is in his last semester finishing up his Master's of Mechanical Engineering. He's already acquired his Bachelor's along with a minor in Physics. During his undergraduate career he co-ops at Dow Corning, LVL1 Hackerspace, and the CONN Center for Renewable Energy Research. He will be working with the Simulation and Media sub-teams. He's been involved with K-pop dance for 3 years, and enjoys weight lifting, ice skating, film making/editing, and learning about quantum mechanics. After graduation he hopes to start working in the Aeronautical Engineering field or with the Army Corps of Engineers, get married, spend his life close to God, family and country. Perhaps even work on the warp-drive-within 100-years project.</p>
+
+					<div><strong>Major:</strong> Master's in Mechanical Engineering</div>
+
+			        <div><strong>Year:</strong> Graduate</div>
+
+			        <div><strong>Sub-teams:</strong> Simulation, Media</div>
+
+
+
+		          </div>
+
+
+
+			    </div>
+
+
+
+			  </div>
+
+
+
+			</div>
+
+
+
+			<div class="row">
+
+
+
+			  <div class="col-sm-6 col-md-4">
+
+
+
+			    <div class="thumbnail">
+
+
+
+			      <img src="../assets/img/team_photos/no_pic_sm.jpg" alt="Jake Wolf" style="width:100%" class="img-rounded" />
+
+
+
+			      <div class="caption">
+
+
+
+			        <h3 style="margin-top: 5px;">Jake Wolf</h3>
+
+			        <p>Jake Wolf is a sophomore Computer Engineering Computer Science student at UofL's JB Speed School of Engineering. He joined the Robotics team hoping to challenge himself with learning and using a new program. He is currently a member of the localization team under Alex Ricket researching and developing programs to efficiently track movement.</p>
+
+					<div><strong>Major:</strong> Computer Engineering & Computer Science</div>
+
+			        <div><strong>Year:</strong> Sophomore</div>
+
+			        <div><strong>Sub-team:</strong> Localization</div>
+
+
+
+		          </div>
+
+
+
+			    </div>
+
+
+
+			  </div>
+
+
+
+			  <div class="col-sm-6 col-md-4">
+
+
+
+			    <div class="thumbnail">
+
+
+
+			      <img src="../assets/img/team_photos/danielle_sm.jpg" alt="Danielle Hardy" style="width:100%" class="img-rounded" />
+
+
+
+			      <div class="caption">
+
+
+
+			        <h3 style="margin-top: 5px;">Danielle Hardy</h3>
+
+			        <p>Danielle Hardy is a first year Computer Engineering and Computer Science major with a minor in French. As a freshman, this is her first year with the Redbird Robotics team. She is head of the media sub-team as well as a member on the flight control and finances sub-teams. She is interested in the application of artificial intelligence as well as video games development and web design.</p>
+
+					<div><strong>Major:</strong> Computer Engineering & Computer Science</div>
+
+			        <div><strong>Year:</strong> Freshman</div>
+
+			        <div><strong>Sub-teams:</strong> Flight Control, Media, Finance</div>
+
+
+
+		          </div>
+
+
+
+			    </div>
+
+
+
+			  </div>
+
+
+
+			  <div class="col-sm-6 col-md-4">
+
+
+
+			    <div class="thumbnail">
+
+
+
+			      <img src="../assets/img/team_photos/no_pic_sm.jpg" alt="Hayden Hiller" style="width:100%" class="img-rounded" />
+
+
+
+			      <div class="caption">
+
+
+
+			        <h3 style="margin-top: 5px;">Hayden Hiller</h3>
+
+			        <p>Hayden is a freshman Electrical Engineering student at UofL's JB Speed School of Engineering. He joined Redbird Robotics team hoping to not only apply engineering principles in a hands on environment, but to also learn more about robotics and programming. He is currently working on the flight control sub-team, as well as the localization sub-team. He is also involved  with Speed School Student Council and Greek life.</p>
+
+					<div><strong>Major:</strong> Electrical Engineering</div>
+
+			        <div><strong>Year:</strong> Freshman</div>
+
+			        <div><strong>Sub-teams:</strong> Flight Control, Localization</div>
+
+
+
+		          </div>
+
+
+
+			    </div>
+
+
+
+			  </div>
+
+
+
+			</div>
+
+
+
+
+
+			<div class="row">
+
+
+
+			  <div class="col-sm-6 col-md-4">
+
+
+
+			    <div class="thumbnail">
+
+
+
+			      <img src="../assets/img/team_photos/tanner_sm.jpg" alt="Tanner Priest" style="width:100%" class="img-rounded" />
+
+
+
+			      <div class="caption">
+
+
+
+			        <h3 style="margin-top: 5px;">Tanner Priest</h3>
+
+			        <p>Bryan Priest is a freshman Electrical Engineering student at UofL's JB Speed School of Engineering. He joined the robotics team hoping to get hands on experience with engineering. He is currently a member of the simulation sub-team under Devin creating a perfect model of the competition on a computer to test the drone before the competition. He is also a member of the finance sub-team under Alex Rickert.</p>
+
+					<div><strong>Major:</strong> Electrical Engineering</div>
+
+			        <div><strong>Year:</strong> Freshman</div>
+
+			        <div><strong>Sub-teams:</strong> Simulation, Finance</div>
+
+
+
+		          </div>
+
+
+
+			    </div>
+
+
+
+			  </div>
+
+
+
+			  <div class="col-sm-6 col-md-4">
+
+
+
+			    <div class="thumbnail">
+
+
+
+			      <img src="../assets/img/team_photos/brian_sm.jpg" alt="Brian Lam" style="width:100%" class="img-rounded" />
+
+
+
+			      <div class="caption">
+
+
+
+			        <h3 style="margin-top: 5px;">Brian Lam</h3>
+
+			        <p>Brian is a freshman Electrical Engineering student at UofL's JB Speed School of Engineering. He joined the IARC Team in hope of learning more about autonomous robots and the programming of them. He is currently a member of the Flight Control team under Sam Fox. He currently coaches duPont Manual’s Science Olympiad team assisting them in the development and building oftheir devices. </p>
+
+					<div><strong>Major:</strong> Electrical Engineering</div>
+
+			        <div><strong>Year:</strong> Freshman</div>
+
+			        <div><strong>Sub-team:</strong> Flight Control</div>
+
+
+
+		          </div>
+
+
+
+			    </div>
+
+
+
+			  </div>
+
+
+
+			  <div class="col-sm-6 col-md-4">
+
+
+
+			    <div class="thumbnail">
+
+
+
+			      <img src="../assets/img/team_photos/no_pic_sm.jpg" alt="Will Crawford" style="width:100%" class="img-rounded" />
+
+
+
+			      <div class="caption">
+
+
+
+			        <h3 style="margin-top: 5px;">Will Crawford</h3>
+
+			        <p>Will Crawford is a freshman at University of Louisville majoring in Computer Engineering and Computer Science. He joined the robotics team so that he can gain more experience with both drones and robotics so that he can make a career out of it. He is currently a part of the simulation team under Devon Warman to research ways to safely and accurately simulate the competition environment.</p>
+
+					<div><strong>Major:</strong> Computer Engineering and Computer Science</div>
+
+			        <div><strong>Year:</strong> Freshman</div>
+
+			        <div><strong>Sub-team:</strong> Simulation</div>
+
+
+
+		          </div>
+
+
+
+			    </div>
+
+
+
+			  </div>
+
+
+
+			</div>
+
+
+
+    </div>
+
+
+
+</div>
+
+
+
+</div>
+
+
+
+<?php include "../include/footer.php"; ?>
+
+
+
+
+

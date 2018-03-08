@@ -1,0 +1,3 @@
+[22-Aug-2017 02:31:04 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home2/imenigma/public_html/redbirdrobotics.org/new/application/views/inc/header.php on line 10
+[22-Aug-2017 15:57:59 America/Chicago] PHP Fatal error:  Call to undefined function baseurl() in /home2/imenigma/public_html/redbirdrobotics.org/new/application/views/home.php on line 3
+[22-Aug-2017 15:58:05 America/Chicago] PHP Fatal error:  Call to undefined function baseurl() in /home2/imenigma/public_html/redbirdrobotics.org/new/application/views/home.php on line 3
