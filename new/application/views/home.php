@@ -22,7 +22,8 @@
                 <div class="card-body">
                     <h4 class="card-title">Redbird Expo</h4>
                     <h6 class="card-subtitle mb-2 text-muted">J.B. Speed Engineering Exposition</h6>
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    <img src="assets/img/card_pics/expo.jpg" alt="Mountain View"/>
+                    <p class="card-text">Redbird Robotics excited the Louisville community by sharing some of the hard work that the organization has carried out.</p>
 
                 </div>
             </div>
@@ -30,9 +31,10 @@
         <div class="col-md-4">
             <div class="card">
                 <div class="card-body">
-                    <h4 class="card-title">Card title</h4>
+                    <h4 class="card-title">Redbird Meetings</h4>
                     <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6>
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    
+                    <p class="card-text">General team meetings for Redbird Robotics take place biweekly to catch everyone up with each subteam's progress.</p>
 
                 </div>
             </div>
