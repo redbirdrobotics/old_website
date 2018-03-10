@@ -12,7 +12,7 @@
                     <h4 class="card-title" style="color:black">Redbird Spotlight</h4>
                     <h6 class="card-subtitle mb-2 text-muted">In the News</h6>
                     <img style="max-width:100%;max-height:100%;" src="http://redbirdrobotics.org/new/assets/img/card_pics/article.jpeg" alt="Picture from article about Redbird"/>
-                    <p style="color:black">Redbird Robotics team lands second place in the International Aerial Robotics Competition</p>
+                    <p style="color:black">"Redbird Robotics team lands second place in the International Aerial Robotics Competition." Click this card to learn more!</p>
  
                 </div>
             </div>
@@ -114,7 +114,7 @@
                 </div>
                 <div class="media-body">
                     <h4 class="media-heading">Alex Rickert</h4>
-                    <p>Alex is a co-founder of Redbird Robotics and is serving his last year as Co-Captain of Redbird Robotics. Alex’s goal is to make Redbird Robotics a nationally competitive robotics team at the University of Louisville. His interests include Robotic Controls, Computer Vision and Artificial Intelligence.</p>
+                    <p>Alex is a co-founder of Redbird Robotics and is serving his last year as co-captain of Redbird Robotics. Alex’s goal is to make Redbird Robotics a nationally competitive robotics team at the University of Louisville. His interests include robotic controls, computer vision and artificial intelligence.</p>
                     <div><strong>Major:</strong> Electrical Engineering</div>
                     <div><strong>Year:</strong> Senior</div>
                 </div>
@@ -145,7 +145,7 @@
                 </div>
                 <div class="media-body">
                     <h4 class="media-heading">Alex Bennett</h4>
-                    <p align="justify">Alex is a co-founder and acted as co-captain the team, bringing his experience in autonomous robotics, computer vision, and embedded system design to train the first team members. He lead the team to success in the first IARC competition in 2017. Alex has extensive interests in robotic controls and artificial intelligence and continues to work with drones today.</p>
+                    <p align="justify">Alex is a co-founder and acted as co-captain for the team, bringing his experience in autonomous robotics, computer vision, and embedded system design to train the first team members. He lead the team to success in the first IARC competition in 2017. Alex has extensive interests in robotic controls and artificial intelligence and continues to work with drones today.</p>
                     <div><strong>Major:</strong> Electrical Engineering</div>
                     <div><strong>Year:</strong> Alum</div>
                 </div>

@@ -44,7 +44,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                     </ul>
                     <ul class="navbar-nav navbar-right">
                         <!-- <a class="btn btn-social-icon btn-github"><span class="fa fa-github"></span></a> -->
-                        <a href="team/join/"><button type="button" class="btn btn-danger navbar-btn">Join the team!</button></a>
+                        <a href="http://redbirdrobotics.org/team/join/"><button type="button" class="btn btn-danger navbar-btn">Join the team!</button></a>
                     </ul>
                 </div>
             </nav>
@@ -59,10 +59,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                 <a class="nav-link" href="#">Home</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#team">Team</a>
+                                <a class="nav-link" href="#competition">Competition</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#competition">Competition</a>
+                                <a class="nav-link" href="#team">Team</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="#sponsors">Sponsors</a>
