@@ -58,10 +58,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                 <a class="nav-link" href="#">Home</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">Media</a>
+                                <a class="nav-link" href="#team">Team</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">Competition</a>
+                                <a class="nav-link" href="#competition">Competition</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="#sponsors">Sponsors</a>

@@ -6,13 +6,13 @@
     </div> -->
     <div class="row" style="margin-top: 20px">
         <div class="col-md-4">
-            <a style="text-decoration: none;"  target="_blank"href="http://louisville.edu/speed/spotlights/redbirdRoboticsSecondPlaceIARC">
+            <a  target="_blank" class="card-link" href="http://louisville.edu/speed/spotlights/redbirdRoboticsSecondPlaceIARC">
             <div class="card" style="height:400px">
                 <div class="card-body">
-                    <h4 class="card-title">Redbird Spotlight</h4>
+                    <h4 class="card-title" style="color:black">Redbird Spotlight</h4>
                     <h6 class="card-subtitle mb-2 text-muted">In the News</h6>
-                    <img class="card-image" style="max-width:100%;max-height:100%;" src="assets/img/card_pics/article.jpeg" alt="Picture from article about Redbird"/>
-                    <p class="card-text">Redbird Robotics team lands second place in the International Aerial Robotics Competition</p>
+                    <img class="card-image" style="max-width:100%;max-height:100%;" src="new/assets/img/card_pics/article.jpeg" alt="Picture from article about Redbird"/>
+                    <p class="card-text" style="color:black">Redbird Robotics team lands second place in the International Aerial Robotics Competition</p>
  
                 </div>
             </div>
@@ -23,7 +23,7 @@
                 <div class="card-body">
                     <h4 class="card-title">Engineering Expo</h4>
                     <h6 class="card-subtitle mb-2 text-muted">J.B. Speed Engineering Exposition</h6>
-                    <img class="card-image" style="max-width:100%;max-height:100%;" src="assets/img/card_pics/expo.jpg" alt="Picture of Alex at the Expo"/>
+                    <img class="card-image" style="max-width:100%;max-height:100%;" src="new/assets/img/card_pics/expo.jpg" alt="Picture of Alex at the Expo"/>
                     <p class="card-text">Redbird Robotics excited the Louisville community by sharing some of the hard work that the organization has carried out.</p>
 
                 </div>
@@ -34,7 +34,7 @@
                 <div class="card-body">
                     <h4 class="card-title">Redbird Meetings</h4>
                     <h6 class="card-subtitle mb-2 text-muted">General Meetings are Fun!</h6>
-                    <img class="card-image" style="max-width:100%;max-height:100%;" src="assets/img/card_pics/meeting.jpg" alt="Picture of Redbird General Meeting"/>
+                    <img class="card-image" style="max-width:100%;max-height:100%;" src="new/assets/img/card_pics/meeting.jpg" alt="Picture of Redbird General Meeting"/>
                     <p class="card-text">General team meetings for Redbird Robotics take place biweekly to catch everyone up with each subteam's progress.</p>
 
                 </div>
@@ -49,10 +49,11 @@
     <div class="frontpage-video-overlay"></div>
 </div>
 <!-- BEGIN COMPETITION SECITON -->
+<a id="competition">
 <div class="container-fluid white" style="margin-top: 50px; padding-top: 20px">
     <div class="row" style="padding: 20px">
         <div class="col-md-10">
-            <img src="../assets/img/IARC.png" alt="International Aerial Robotics Competition" style="">
+            <img style="max-width:100%;max-height:100%;" src="../assets/img/IARC.png" alt="International Aerial Robotics Competition">
         </div>
         <div class="col-md-2">
             <!-- buttons -->
@@ -78,8 +79,71 @@
         </div>
     </div>
 </div>
-
+</a>
 <!-- END COMPETITION SECITON -->
+<!-- BEGIN TEAM SECTION -->
+<a id="team">
+<div class="container-fluid white" style="margin-top: 50px; padding-top: 20px">
+    <a name="captains"></a>
+    <div class="row">
+        <div class="col-md-12">
+            <h1><strong>Meet the Team</strong></h1>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            <h2><strong>Co-Captains</strong></h2>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            <div class="media">
+                <div class="media-left media-top" style="padding-right:10px;">
+                    <a href="https://www.linkedin.com/in/alexander-rickert-535312121/" target="_blank"><img class="img-circle media-object rounded-circle" style="max-width:100px;max-height:100px" src="new/assets/img/ugly_mugs/alex_rickert.png"></a>
+                </div>
+                <div class="media-body">
+                    <h4 class="media-heading">Alex Rickert</h4>
+                    <p>Alex is a co-founder of Redbird Robotics and is serving his last year as Co-Captain of Redbird Robotics. Alex’s goal is to make Redbird Robotics a nationally competitive robotics team at the University of Louisville. His interests include Robotic Controls, Computer Vision and Artificial Intelligence.</p>
+                    <div><strong>Major:</strong> Electrical Engineering</div>
+                    <div><strong>Year:</strong> Senior</div>
+                </div>
+            </div>
+            <div class="media">
+                <div class="media-left media-top" style="padding-right:10px;">
+                    <a href="https://www.linkedin.com/in/aaronfoxrox/" target="_blank"><img class="img-circle media-object rounded-circle" style="max-width:100px;max-height:100px" src="new/assets/img/ugly_mugs/aaron_fox.png"></a>
+                </div>
+                <div class="media-body">
+                    <h4 class="media-heading">Aaron Fox</h4>
+                    <p align="justify">Aaron will be acting as co-captain this year for the team and hopes to bring his experience in autonomous robotics, computer vision, and embedded system design to the table in an effort to train team members and lead the team to success in this year's competition. Aaron has extensive interests in robotic controls and artificial intelligence and upon graduation plans to pursue a career in these combined fields.</p>
+                    <div><strong>Major:</strong> Computer Engineering and Computer Science</div>
+                    <div><strong>Year:</strong> Sophomore</div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            <h2><strong>Founding Alumnus</strong></h2>
+        </div>
+    </div>
+    <div class="row" style="padding-bottom:15px;">
+        <div class="col-md-12">
+            <div class="media">
+                <div class="media-left media-top" style="padding-right:10px;">
+                    <a href="https://www.linkedin.com/in/alex-bennett-397568b1/"><img class="media-object rounded-circle" style="max-width:100px;max-height:100px" src="new/assets/img/ugly_mugs/alex_bennett.png"></a>
+                </div>
+                <div class="media-body">
+                    <h4 class="media-heading">Alex Bennett</h4>
+                    <p align="justify">Alex is a co-founder and acted as co-captain the team, bringing his experience in autonomous robotics, computer vision, and embedded system design to train the first team members. He lead the team to success in the first IARC competition in 2017. Alex has extensive interests in robotic controls and artificial intelligence and continues to work with drones today.</p>
+                    <div><strong>Major:</strong> Electrical Engineering</div>
+                    <div><strong>Year:</strong> Alum</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</a>
+<!-- END TEAM SECTION -->
 <!-- BEGIN SPONSORS SECTION -->
 <a id="sponsors">
 <div class="container-fluid white" style="margin-top: 50px; padding-top: 20px">

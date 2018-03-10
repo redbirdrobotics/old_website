@@ -33,6 +33,10 @@ h1, h2, h3, h4 {
 */
 }
 
+.card-text {
+    background-color: black;
+}
+
 /* Frontpage Video */
 .frontpage-video {
     position: fixed;
