@@ -11,8 +11,8 @@
                 <div class="card-body">
                     <h4 class="card-title" style="color:black">Redbird Spotlight</h4>
                     <h6 class="card-subtitle mb-2 text-muted">In the News</h6>
-                    <img class="card-image" style="max-width:100%;max-height:100%;" src="new/assets/img/card_pics/article.jpeg" alt="Picture from article about Redbird"/>
-                    <p class="card-text" style="color:black">Redbird Robotics team lands second place in the International Aerial Robotics Competition</p>
+                    <img style="max-width:100%;max-height:100%;" src="http://redbirdrobotics.org/new/assets/img/card_pics/article.jpeg" alt="Picture from article about Redbird"/>
+                    <p style="color:black">Redbird Robotics team lands second place in the International Aerial Robotics Competition</p>
  
                 </div>
             </div>
@@ -23,8 +23,8 @@
                 <div class="card-body">
                     <h4 class="card-title">Engineering Expo</h4>
                     <h6 class="card-subtitle mb-2 text-muted">J.B. Speed Engineering Exposition</h6>
-                    <img class="card-image" style="max-width:100%;max-height:100%;" src="new/assets/img/card_pics/expo.jpg" alt="Picture of Alex at the Expo"/>
-                    <p class="card-text">Redbird Robotics excited the Louisville community by sharing some of the hard work that the organization has carried out.</p>
+                    <img style="max-width:100%;max-height:100%;" src="http://redbirdrobotics.org/new/assets/img/card_pics/expo.jpg" alt="Picture of Alex at the Expo"/>
+                    <p>Redbird Robotics excited the Louisville community by sharing some of the hard work that the organization has carried out.</p>
 
                 </div>
             </div>
@@ -34,8 +34,8 @@
                 <div class="card-body">
                     <h4 class="card-title">Redbird Meetings</h4>
                     <h6 class="card-subtitle mb-2 text-muted">General Meetings are Fun!</h6>
-                    <img class="card-image" style="max-width:100%;max-height:100%;" src="new/assets/img/card_pics/meeting.jpg" alt="Picture of Redbird General Meeting"/>
-                    <p class="card-text">General team meetings for Redbird Robotics take place biweekly to catch everyone up with each subteam's progress.</p>
+                    <img style="max-width:100%;max-height:100%;" src="http://redbirdrobotics.org/new/assets/img/card_pics/meeting.jpg" alt="Picture of Redbird General Meeting"/>
+                    <p>General team meetings for Redbird Robotics take place biweekly to catch everyone up with each subteam's progress.</p>
 
                 </div>
             </div>
@@ -110,7 +110,7 @@
         <div class="col-md-12">
             <div class="media">
                 <div class="media-left media-top" style="padding-right:10px;">
-                    <a href="https://www.linkedin.com/in/alexander-rickert-535312121/" target="_blank"><img class="img-circle media-object rounded-circle" style="max-width:100px;max-height:100px" src="new/assets/img/ugly_mugs/alex_rickert.png"></a>
+                    <a href="https://www.linkedin.com/in/alexander-rickert-535312121/" target="_blank"><img class="img-circle media-object rounded-circle" style="max-width:100px;max-height:100px" src="http://redbirdrobotics.org/new/assets/img/ugly_mugs/alex_rickert.png"></a>
                 </div>
                 <div class="media-body">
                     <h4 class="media-heading">Alex Rickert</h4>
@@ -121,7 +121,7 @@
             </div>
             <div class="media">
                 <div class="media-left media-top" style="padding-right:10px;">
-                    <a href="https://www.linkedin.com/in/aaronfoxrox/" target="_blank"><img class="img-circle media-object rounded-circle" style="max-width:100px;max-height:100px" src="new/assets/img/ugly_mugs/aaron_fox.png"></a>
+                    <a href="https://www.linkedin.com/in/aaronfoxrox/" target="_blank"><img class="img-circle media-object rounded-circle" style="max-width:100px;max-height:100px" src="http://redbirdrobotics.org/new/assets/img/ugly_mugs/aaron_fox.png"></a>
                 </div>
                 <div class="media-body">
                     <h4 class="media-heading">Aaron Fox</h4>
@@ -141,7 +141,7 @@
         <div class="col-md-12">
             <div class="media">
                 <div class="media-left media-top" style="padding-right:10px;">
-                    <a href="https://www.linkedin.com/in/alex-bennett-397568b1/"><img class="media-object rounded-circle" style="max-width:100px;max-height:100px" src="new/assets/img/ugly_mugs/alex_bennett.png"></a>
+                    <a href="https://www.linkedin.com/in/alex-bennett-397568b1/"><img class="media-object rounded-circle" style="max-width:100px;max-height:100px" src="http://redbirdrobotics.org/new/assets/img/ugly_mugs/alex_bennett.png"></a>
                 </div>
                 <div class="media-body">
                     <h4 class="media-heading">Alex Bennett</h4>
