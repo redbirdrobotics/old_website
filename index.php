@@ -1,6 +1,6 @@
 <?php
 echo '<script type="text/javascript">
-           window.location = "http://localhost:8000/new"
+           window.location = "http://redbirdrobotics.org/new/"
       </script>';
 ?>
 
