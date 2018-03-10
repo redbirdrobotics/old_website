@@ -15,20 +15,21 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         <div class="container-fluid header-bg-circuit1">
         <?php } ?>
         <div class="container">
-            <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <nav class="navbar navbar-expand-lg " style="background: rgba(255, 255, 255, .5); color: white:">
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="collapse navbar-collapse" id="navbarNavDropdown">
                     <ul class="navbar-nav mr-auto">
                         <li class="nav-item">
-                            <a class="nav-link" href="#">Contact Us</a>
+                            <a class="nav-link" style="color:#FFF" href="mailto:amfox005@louisville.Edu">Contact Us</a>
+                        </li>
+                        
+                        <li class="nav-item">
+                            <a class="nav-link" style="color:#FFF" href="http://aerialroboticscompetition.org/" target="_new">IARC </a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">Become a sponsor</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="http://aerialroboticscompetition.org/" target="_new">IARC <span class="oi oi-share-boxed" title="" aria-hidden="true"></span></a>
+                            <a class="nav-link" href="/donate" style="color:#AD0000">Become a sponsor</a>
                         </li>
                         <!-- <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="http://example.com" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -43,7 +44,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                     </ul>
                     <ul class="navbar-nav navbar-right">
                         <!-- <a class="btn btn-social-icon btn-github"><span class="fa fa-github"></span></a> -->
-                        <a href="#"><button type="button" class="btn btn-outline-success navbar-btn">Join the team!</button></a>
+                        <a href="team/join/"><button type="button" class="btn btn-danger navbar-btn">Join the team!</button></a>
                     </ul>
                 </div>
             </nav>

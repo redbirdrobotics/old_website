@@ -42,6 +42,19 @@
         </div>
     </div>
 </div>
+<div class="container-fluid code1-header" style="margin-bottom: 0">
+    <div class="container">
+       
+        <div class="row" style="color:white; padding-top:50px;">
+            <div class="col-md-12">
+                <h4>About Us</h4>
+                <p align="justify">Redbird Robotics brings together multiple engineering disciplines to provide practical, real world experience for students through competitive robotic design and creation. Currently, we are working on an entry for the <a href="#competition">International Aerial Robotics Competition</a>.
+                    <br />
+                    <br /> Team members participate in all aspects of robotic design from concept design to manufacturing to programming. Our team is a diverse collection of electrical, mechanical, and computer engineering students with experience working for companies such as the Johns Hopkins APL, iKeyless, and Luckett & Farley Architectural Firm.</p>
+            </div>
+        </div>
+    </div>
+</div>
 <div class="container-fluid frontpage-video-container">
     <video class="frontpage-video" loop muted autoplay>
         <source src="<?php echo base_url('assets/vid/promo_vid.mp4#t=12,70'); ?>" type="video/mp4">
@@ -50,28 +63,26 @@
 </div>
 <!-- BEGIN COMPETITION SECITON -->
 <a id="competition">
-<div class="container-fluid white" style="margin-top: 50px; padding-top: 20px">
+<div class="container-fluid " style="">
     <div class="row" style="padding: 20px">
-        <div class="col-md-10">
+        <div class="col-md-12">
             <img style="max-width:100%;max-height:100%;" src="../assets/img/IARC.png" alt="International Aerial Robotics Competition">
         </div>
-        <div class="col-md-2">
-            <!-- buttons -->
-            <div class="btn-group-vertical" role="group" style="padding: 40px 40px 0 0">
-                <!-- <button type="button" class="btn btn-default">Rules<a href="/rules.php"></button> -->
-                <button type="button" class="btn btn-default"><a href="http://www.aerialroboticscompetition.org/media.php", target="_blank">Media Coverage</a> </button>
-                <button type="button" class="btn btn-default"><a href="http://www.aerialroboticscompetition.org/pastmissions.php", target="_blank">Past IARC Missions</a> </button>
-                <button type="button" class="btn btn-default"><a href="http://www.aerialroboticscompetition.org/downloads/mission7rules_013017.pdf", target="_blank">Official Rules</a> </button>
-            </div>
-        </div>
+        
         <hr />
     </div>
     <!-- ends row -->
     <!-- paragraph and images -->
-    <div class="row">
+    <div class="row" style="color:white">
         <div class="col-md-9">
             <h2>The Challenge: Mission 7</h2>
-            <p>The competition taking place in late July of 2017 entails building and programming a drone to fly autonomously around an arena while interacting with outher autonomously moving robots. The robots on the ground will be simualting randomized movement while our drone will fly around and manipulate their movement. The goal is to herd at least four of the ten ground robots across the green end of the arena shown to the right within 10 minutes. If a bot goes out of bounds, it is out of the challenge. If this wasnt't enough of a challenge, there are also taller autonomous ground robots that are designated as obstacles which our drone must avoid. To learn more about the competition, check out IARC's promotional video <a href="https://player.vimeo.com/video/103487384", target="_blank">here</a>. To find more information about the competition in general, see the <a href="http://www.aerialroboticscompetition.org/", target="_blank">official IARC website</a>.</p>
+            <p>The competition taking place in late July of 2018 entails building and programming a drone to fly autonomously around an arena while interacting with outher autonomously moving robots. The robots on the ground will be simualting randomized movement while our drone will fly around and manipulate their movement. The goal is to herd at least four of the ten ground robots across the green end of the arena shown to the right within 10 minutes. If a bot goes out of bounds, it is out of the challenge. If this wasn't enough of a challenge, there are also taller autonomous ground robots that are designated as obstacles which our drone must avoid. To learn more about the competition, check out IARC's promotional video <a href="https://player.vimeo.com/video/103487384", target="_blank">here</a>. To find more information about the competition in general, see the <a href="http://www.aerialroboticscompetition.org/", target="_blank">official IARC website</a>.</p>
+            <p>Links of interest:</p>
+            <ul>
+              <li><a href="http://www.aerialroboticscompetition.org/media.php", target="_blank">Media Coverage</a> </li>
+              <li><a href="http://www.aerialroboticscompetition.org/pastmissions.php", target="_blank">Past IARC Missions</a></li>
+              <li><a href="http://www.aerialroboticscompetition.org/mission7/downloads/mission7rules_013017.pdf", target="_blank">Official Rules</a></li>
+            </ul>
         </div>
         <div class="col-md-3">
             <img src="../assets/img/ground_bot.png" alt="Autonomous ground robot" style="width: 100%">
@@ -82,20 +93,20 @@
 </a>
 <!-- END COMPETITION SECITON -->
 <!-- BEGIN TEAM SECTION -->
-<a id="team">
-<div class="container-fluid white" style="margin-top: 50px; padding-top: 20px">
+<a id="team" >
+<div class="container-fluid" style="margin-top: 50px; padding-top: 20px">
     <a name="captains"></a>
-    <div class="row">
-        <div class="col-md-12">
+    <div class="row" style="color:white">
+        <div class="col-md-12" >
             <h1><strong>Meet the Team</strong></h1>
         </div>
     </div>
-    <div class="row">
+    <div class="row" style="color:white">
         <div class="col-md-12">
             <h2><strong>Co-Captains</strong></h2>
         </div>
     </div>
-    <div class="row">
+    <div class="row" style="color:white">
         <div class="col-md-12">
             <div class="media">
                 <div class="media-left media-top" style="padding-right:10px;">
@@ -114,19 +125,19 @@
                 </div>
                 <div class="media-body">
                     <h4 class="media-heading">Aaron Fox</h4>
-                    <p align="justify">Aaron will be acting as co-captain this year for the team and hopes to bring his experience in autonomous robotics, computer vision, and embedded system design to the table in an effort to train team members and lead the team to success in this year's competition. Aaron has extensive interests in robotic controls and artificial intelligence and upon graduation plans to pursue a career in these combined fields.</p>
+                    <p align="justify">Aaron will be acting as co-captain this year for the team and hopes to bring his experience in an effort to train team members and lead the team to success in this year's competition. Aaron is excited to work at the Johns Hopkins APL over the summer for his first co-op.</p>
                     <div><strong>Major:</strong> Computer Engineering and Computer Science</div>
                     <div><strong>Year:</strong> Sophomore</div>
                 </div>
             </div>
         </div>
     </div>
-    <div class="row">
+    <div class="row" style="color:white">
         <div class="col-md-12">
             <h2><strong>Founding Alumnus</strong></h2>
         </div>
     </div>
-    <div class="row" style="padding-bottom:15px;">
+    <div class="row" style="padding-bottom:15px; color:white;">
         <div class="col-md-12">
             <div class="media">
                 <div class="media-left media-top" style="padding-right:10px;">
