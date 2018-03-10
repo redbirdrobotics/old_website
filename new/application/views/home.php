@@ -12,7 +12,7 @@
                     <h4 class="card-title" style="color:black">Redbird Spotlight</h4>
                     <h6 class="card-subtitle mb-2 text-muted">In the News</h6>
                     <img style="max-width:100%;max-height:100%;" src="http://redbirdrobotics.org/new/assets/img/card_pics/article.jpeg" alt="Picture from article about Redbird"/>
-                    <p style="color:black">"Redbird Robotics team lands second place in the International Aerial Robotics Competition." Click this card to learn more!</p>
+                    <p style="color:black; margin-top:5px;">"Redbird Robotics team lands second place in the International Aerial Robotics Competition." Click this card to learn more!</p>
  
                 </div>
             </div>
@@ -24,7 +24,7 @@
                     <h4 class="card-title">Engineering Expo</h4>
                     <h6 class="card-subtitle mb-2 text-muted">J.B. Speed Engineering Exposition</h6>
                     <img style="max-width:100%;max-height:100%;" src="http://redbirdrobotics.org/new/assets/img/card_pics/expo.jpg" alt="Picture of Alex at the Expo"/>
-                    <p>Redbird Robotics excited the Louisville community by sharing some of the hard work that the organization has carried out.</p>
+                    <p style="margin-top:5px">Redbird Robotics excited the Louisville community by sharing some of the hard work that the organization has carried out.</p>
 
                 </div>
             </div>
@@ -35,14 +35,14 @@
                     <h4 class="card-title">Redbird Meetings</h4>
                     <h6 class="card-subtitle mb-2 text-muted">General Meetings are Fun!</h6>
                     <img style="max-width:100%;max-height:100%;" src="http://redbirdrobotics.org/new/assets/img/card_pics/meeting.jpg" alt="Picture of Redbird General Meeting"/>
-                    <p>General team meetings for Redbird Robotics take place biweekly to catch everyone up with each subteam's progress.</p>
+                    <p style="margin-top:5px";>General team meetings for Redbird Robotics take place biweekly to catch everyone up with each subteam's progress.</p>
 
                 </div>
             </div>
         </div>
     </div>
 </div>
-<div class="container-fluid code1-header" style="margin-bottom: 0">
+<div class="container-fluid code1-header" style="margin-bottom: -800px">
     <div class="container">
        
         <div class="row" style="color:white; padding-top:50px;">
@@ -63,7 +63,7 @@
 </div>
 <!-- BEGIN COMPETITION SECITON -->
 <a id="competition">
-<div class="container-fluid " style="">
+<div class="container-fluid">
     <div class="row" style="padding: 20px">
         <div class="col-md-12">
             <img style="max-width:100%;max-height:100%;" src="../assets/img/IARC.png" alt="International Aerial Robotics Competition">
@@ -162,7 +162,7 @@
         <div class="row">
             <div class="col-md-12">
                 <h4>Proud Sponsors</h4>
-                <p>Our sponsors help to promote educational applications for innovative technologies while maintaining a professional relationship with the members of our team. Interested in sponsoring our team? Email <a href="mailto:sponsor@redbirdrobotics.org">sponsor@redbirdrobotics.org</a> or check out our <a href="#">Sponsor / Donate</a> page.</p>
+                <p>Our sponsors help to promote educational applications for innovative technologies while maintaining a professional relationship with the members of our team. Interested in sponsoring our team? Email <a href="mailto:sponsor@redbirdrobotics.org">sponsor@redbirdrobotics.org</a> or check out our <a href="#">Sponsor/Donate</a> page.</p>
             </div>
         </div>
         <div class="row">

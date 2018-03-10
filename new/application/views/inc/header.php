@@ -9,6 +9,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
         <link rel="stylesheet" href="<?php echo base_url('assets/css/import.css'); ?>">
         <link href="<?php echo base_url('assets/utils/open-iconic/css/open-iconic-bootstrap.css'); ?>" rel="stylesheet">
+        <script defer src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
     </head>
     <body>
         <?php if(!$is_home) { ?>
@@ -17,7 +18,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         <div class="container">
             <nav class="navbar navbar-expand-lg " style="background: rgba(255, 255, 255, .5); color: white:">
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
+                <span class="navbar-toggler-icon"><i class="fa fa-bars" aria-hidden="true" style="margin-top:3px;"></i></span>
                 </button>
                 <div class="collapse navbar-collapse" id="navbarNavDropdown">
                     <ul class="navbar-nav mr-auto">
