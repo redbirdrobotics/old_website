@@ -1,10 +1,17 @@
 <?php
+echo '<script type="text/javascript">
+           window.location = "http://redbirdrobotics.org/new/"
+      </script>';
+?>
+
+<?php
 
 $page_title="Home";
 
 include "include/header.php";
 
 ?>
+
 
 <div class="container-fluid frontpage-video-container">
     <video class="frontpage-video" loop muted autoplay>
