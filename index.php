@@ -54,7 +54,7 @@ include "include/header.php";
         <div class="row">
             <div class="col-md-12">
                 <h2>Proud Sponsors</h2>
-                <p>Our sponsors help to promote educational applications for innovative technologies while maintaining a professional relationship with the members of our team. Interested in sponsoring our team? Email <a href="mailto:sponsor@redbirdrobotics.org">sponsor@redbirdrobotics.org</a> or check out our <a href="<?php echo $config["site_url"]; ?>/donate">Sponsor / Donate</a> page.</p>
+                <p>Our sponsors help to promote educational applications for innovative technologies while maintaining a professional relationship with the members of our team. Interested in sponsoring our team? Email <a href="mailto:sponsor@redbirdrobotics.org">sponsor@redbirdrobotics.org</a> or check out our <a href="http://redbirdrobotics.org/donate/">Sponsor / Donate</a> page.</p>
             </div>
         </div>
         <div class="row">
